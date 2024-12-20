@@ -131,7 +131,7 @@ The backend functionality is primarily handled by the smart contract and various
 
 ## DIMO 
 
-Zero2Hero now incorporates DIMO (Decentralized Internet of Mobility) to enhance its waste management capabilities and promote eco-friendly driving habits. This integration aligns with the project's goal of environmental sustainability and community engagement.
+Wasteless incorporates DIMO (Decentralized Internet of Mobility) to enhance its waste management capabilities and promote eco-friendly driving habits. This integration aligns with the project's goal of environmental sustainability and community engagement.
 
 ### Key Components
 
@@ -154,7 +154,7 @@ Zero2Hero now incorporates DIMO (Decentralized Internet of Mobility) to enhance 
    - Displays detailed vehicle information from DIMO
    - Provides users with insights into their vehicle's status and performance
 
-### Importance and Relation to Zero2Hero
+### Importance and Relation to Wasteless
 
 1. Environmental Impact Tracking:
    - The DIMO integration allows users to monitor their vehicle's environmental impact
