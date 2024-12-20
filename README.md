@@ -1,6 +1,6 @@
-# Zero2Hero - Waste Management
+# Wasteless - Waste Management
 
-Zero2Hero is an innovative waste management and community engagement platform built on blockchain technology. It incentivizes users to report and collect waste while providing a gamified experience with rewards and a lottery system.
+Wasteless is an innovative waste management and community engagement platform built on blockchain technology. It incentivizes users to report and collect waste while providing a gamified experience with rewards and a lottery system.
 
 ## Table of Contents
 
